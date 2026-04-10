@@ -15,8 +15,8 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 glass">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-        <a href="#" className="text-xl font-bold neon-text font-mono">
-          {"<Chandan />"}
+        <a href="#" className="text-xl font-bold neon-text">
+          Chandan P R
         </a>
         <div className="hidden md:flex items-center gap-8">
           {links.map((l) => (
