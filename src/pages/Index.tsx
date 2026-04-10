@@ -1,4 +1,5 @@
 import ParticleBackground from "@/components/ParticleBackground";
+import CustomCursor from "@/components/CustomCursor";
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
@@ -10,6 +11,7 @@ import ChatBot from "@/components/ChatBot";
 
 const Index = () => (
   <div className="relative min-h-screen overflow-x-hidden">
+    <CustomCursor />
     <ParticleBackground />
     <Navbar />
     <HeroSection />

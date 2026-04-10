@@ -4,7 +4,7 @@ import { MessageCircle, X, Send } from "lucide-react";
 const responses: Record<string, string> = {
   projects: "I've built AI Resume Ranker, Fraud Credit Card Detection, and Stock Price Prediction. Scroll to the Projects section to learn more!",
   skills: "My core skills include Python, Machine Learning, Deep Learning, TensorFlow, JavaScript, React, NLP, and Computer Vision.",
-  contact: "You can reach me via email at chandan@example.com, or connect on GitHub and LinkedIn. Check the Contact section!",
+  contact: "You can reach me at chandan.rakesh1204@gmail.com, or connect on GitHub (@chandan-1204) and LinkedIn. Check the Contact section!",
   about: "I'm Chandan, an AI/ML enthusiast passionate about building intelligent systems that solve real-world problems.",
   hello: "Hey there! 👋 I'm Chandan's AI assistant. Ask me about projects, skills, or contact info!",
   hi: "Hey there! 👋 I'm Chandan's AI assistant. Ask me about projects, skills, or contact info!",
