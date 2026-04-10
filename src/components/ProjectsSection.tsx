@@ -6,16 +6,19 @@ const projects = [
     title: "AI Resume Ranker",
     description: "An intelligent system that ranks resumes based on job descriptions using NLP and ML algorithms for efficient candidate screening.",
     tags: ["Python", "NLP", "ML", "Flask"],
+    repoLink: "https://github.com/chandan-1204/ai-resume-ranker",
   },
   {
     title: "Fraud Credit Card Detection",
     description: "Machine learning model to detect fraudulent credit card transactions with high accuracy using anomaly detection techniques.",
     tags: ["Python", "Scikit-learn", "Pandas"],
+    repoLink: "https://github.com/chandan-1204/fraud-credit-card-detection",
   },
   {
     title: "Stock Price Prediction",
     description: "LSTM-based deep learning model for predicting stock market trends using historical data and technical indicators.",
     tags: ["Python", "TensorFlow", "LSTM", "Finance"],
+    repoLink: "https://github.com/chandan-1204/stock-price-prediction",
   },
 ];
 
